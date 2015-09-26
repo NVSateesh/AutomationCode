@@ -1,0 +1,28 @@
+
+Go to the folder from where need to push the files in GIT Repo
+
+
+
+1) 
+
+
+Git init
+
+ls
+
+git remote add origin <path of the git repo> 
+
+
+git add .  [ which will add all the files from the current folder]
+ 
+git status
+
+git commit -m "Message to be readble for which activities going to be commited"
+
+git status
+
+git push origin master [This is to push the required code to git]
+
+git branch
+
+git pull origin master [This is to pull changed done anything in GIT HUB to the local master]
